@@ -1,0 +1,13 @@
+{
+  "app": {
+    "port": 3000
+  },
+  "db": {
+        "host": "localhost",
+        "dialect": "mysql",
+        "name": "cwp35",
+        "user": "root",
+        "password": "Mysql123"
+
+  }
+}
